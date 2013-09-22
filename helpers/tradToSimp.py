@@ -1,7 +1,12 @@
+import sys
 import xml.etree.ElementTree as etree
 
-PATH_IN_SVG = '../pinyinChartTrad.svg'
-PATH_OUT_SVG = '../pinyinChartSimp.svg'
+if len(sys.argv) == 3:
+    PATH_IN_SVG = sys.argv[1]
+    PATH_OUT_SVG = sys.argv[2]
+else:
+    PATH_IN_SVG = '../pinyinChartTrad.svg'
+    PATH_OUT_SVG = '../pinyinChartSimp.svg'
 
 pCsvg = etree.parse(PATH_IN_SVG)
 root = pCsvg.getroot()
