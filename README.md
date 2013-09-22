@@ -1,8 +1,8 @@
 # Pinyin Chart
 
 License: [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-version: 1.0
-pdf: [simplified]() [traditional]()
+
+[pdf releases](https://github.com/jiong3/pinyinChart/releases)
 
 This is a printable "map" of all the sounds used in Mandarin Chinese. The minimum size of a printout should be A3. For every item it shows the complete pinyin and an example character along with the tone and the meaning of the character. All definition keywords are unique. Around each character there is a ring with four segments, one for each tone (NW: 1, NE: 2, SW: 3, SE: 4). The more characters use the sound with this tone, the darker the segment is. If no character has this pronunciation, the segment is missing. The neutral tone is ignored.
 
