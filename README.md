@@ -20,7 +20,7 @@ Feel free to create your own version! It is recommended to use [Inkscape](http:/
 It's really easy to change fonts and move everything around since the file is organized in layers. Those are all locked by default, so without the layer dialog you won't be able to change anything.
 
 ### Fonts
-For the Chinese characters [DroidSans](https://github.com/android/platform_frameworks_base/blob/master/data/fonts/DroidSansFallbackFull.ttf?raw=true) (click Raw to download) is used, for everything else the [Ubuntu font family](http://font.ubuntu.com/).
+For the Chinese characters [DroidSans](https://github.com/android/platform_frameworks_base/blob/master/data/fonts/DroidSansFallbackFull.ttf?raw=true) is used, for everything else the [Ubuntu font family](http://font.ubuntu.com/).
 
 ### Scripts
 In the helpers directory there are some python3 scripts which might be helpful. These depend on the structure of the file, so any major editing of the file (deleting layers or items) will not be compatible. You might need to change the path constants in the beginning of each script if your filenames are different.
