@@ -14,7 +14,7 @@ Apart from hanging it on the wall this can be used for:
 
 ## Editing
 
-Feel free to create your own version! It is recommended to use [Inkscape](www.inkscape.org) for editing the svg file.
+Feel free to create your own version! It is recommended to use [Inkscape](http://www.inkscape.org) for editing the svg file.
 It's really easy to change fonts and move everything around since the file is organized in layers. Those are all locked by default, so without the layer dialog you won't be able to change anything.
 
 ### Fonts
