@@ -4,7 +4,7 @@ License: [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 version: 1.0
 pdf: [simplified]() [traditional]()
 
-This is a printable "map" of all the sounds used in Mandarin Chinese. The minimum size of a printout should be A3. For every item it shows the complete pinyin and an example character along with the tone and the meaning of the character. All definition keywords are unique. Around each character there is a ring with four segments, one for each tone (NW: 1, NE: 2, SW: 3, SE: 4). The more characters use the sound with this tone, the darker the segment is. If no character has this pronunciation, the segment is missing.
+This is a printable "map" of all the sounds used in Mandarin Chinese. The minimum size of a printout should be A3. For every item it shows the complete pinyin and an example character along with the tone and the meaning of the character. All definition keywords are unique. Around each character there is a ring with four segments, one for each tone (NW: 1, NE: 2, SW: 3, SE: 4). The more characters use the sound with this tone, the darker the segment is. If no character has this pronunciation, the segment is missing. The neutral tone is ignored.
 
 ## Purpose
 
@@ -14,7 +14,7 @@ Apart from hanging it on the wall this can be used for:
 
 ## Editing
 
-Feel free to create your own version! It is recommended to use [Inkscape]() for editing the svg file.
+Feel free to create your own version! It is recommended to use [Inkscape](www.inkscape.org) for editing the svg file.
 It's really easy to change fonts and move everything around since the file is organized in layers. Those are all locked by default, so without the layer dialog you won't be able to change anything.
 
 ### Fonts
